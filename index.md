@@ -9,8 +9,11 @@ I am a PhD student in the Environmental Studies Department at the University of 
 ***
 ### Education
 2028		Ph.D., Environmental Studies, University of Colorado Boulder
+
 2024		Certificate, Data Analysis with R, Duke University
+
 2023		M.S., Environmental Policy and Science, Johns Hopkins University
+
 2019		B.A., Biochemistry, Minors: Gender Studies, Geological Sciences, Indiana University
 
 ### Experience
