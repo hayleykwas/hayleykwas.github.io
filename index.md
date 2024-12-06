@@ -15,7 +15,7 @@ I am a PhD student in the Environmental Studies Department at the University of 
 
 ### Experience
 *Scientific Research*
-2023-2028	   University of Colorado. Boulder, CO. Research Assistant on National Science Foundation CAREER Grant Project:                  Using otolith chemistry to reveal the life history of Antarctic toothfish in the Ross Sea, Antarctica: Testing                fisheries and climate change impacts on a top fish predator. 
+2023-2028	   University of Colorado. Boulder, CO. Research Assistant on National Science Foundation CAREER Grant Project: Using otolith chemistry to reveal the life history of Antarctic toothfish in the Ross Sea, Antarctica: Testing fisheries and climate change impacts on a top fish predator. 
 2024	       Universidad de Chile Austral. Puerto Montt, Chile. Visiting Scholar.
 2021-2023    Johns Hopkins University. Baltimore, MD. Graduate Research Assistant. 
 2020	       Lew Farms. Mancos, CO. Sustainable Garlic Farming in Southwest CO: understanding drought and resource scarcity.               Research Technician.
