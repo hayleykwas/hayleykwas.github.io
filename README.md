@@ -1,2 +1,2 @@
-# hayleykwas.github.io
+# hkwazy.github.io
 Personal website
