@@ -1,4 +1,4 @@
-![]([1696556882777.jpeg](https://github.com/hayleykwas/hayleykwas.github.io/blob/main/IMG_0573.jpeg))
+![](https://github.com/hayleykwas/hayleykwas.github.io/blob/main/IMG_0573.jpeg)
 
 # Hayley Kwasniewski
 ### hayley.kwasniewski@colorado.edu | LinkedIn: HayleyKwas | GitHub: hayleykwas
