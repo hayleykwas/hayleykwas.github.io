@@ -1,11 +1,11 @@
-![](https://github.com/hayleykwas/hayleykwas.github.io/6FE08CE8-3135-4D25-A3C0-CBEA6C7C7113_1_201_a.jpeg)
+![](6FE08CE8-3135-4D25-A3C0-CBEA6C7C7113_1_201_a.jpeg)
   
 ### hayley.kwasniewski@colorado.edu | LinkedIn: HayleyKwas | GitHub: hayleykwas
 
 ***
 
 <img
-  src="https://github.com/hayleykwas/hayleykwas.github.io/IMG_0573.jpeg"
+  src="IMG_0573.jpeg"
   width="25%"
   align="right">
 
