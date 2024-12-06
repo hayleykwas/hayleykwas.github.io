@@ -4,7 +4,7 @@
 ***
 <div style="text-align: center;">
 <img
-  src=("https://github.com/hayleykwas/hayleykwas.github.io/blob/main/IMG_0573.jpeg")
+  src="(https://github.com/hayleykwas/hayleykwas.github.io/blob/main/IMG_0573.jpeg)"
   width="25%"
   style="text-align: center"
   align="right"
