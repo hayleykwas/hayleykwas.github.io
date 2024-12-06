@@ -18,6 +18,7 @@ I am a PhD student in the Environmental Studies Department at the University of 
 
 ### Experience
 *Scientific Research*
+
 2023-2028	   University of Colorado. Boulder, CO. Research Assistant on National Science Foundation CAREER Grant Project: Using otolith chemistry to reveal the life history of Antarctic toothfish in the Ross Sea, Antarctica: Testing fisheries and climate change impacts on a top fish predator. 
 
 2024	       Universidad de Chile Austral. Puerto Montt, Chile. Visiting Scholar.
@@ -29,9 +30,11 @@ I am a PhD student in the Environmental Studies Department at the University of 
 2015-2017	   Indiana University Department of Biochemistry. Bloomington, IN. Undergraduate Research Assistant.
 
 *Affiliations*
+
 2023-	       Graduate Research Assistant, Institute of Arctic and Alpine Research, CU Boulder
 
 *Community-based Environmental Outreach and Policymaking*
+
 2021-2023	   The Park People. Denver, CO. Development Manager.
 
 2020-2021	   Mancos Conservation District. Crew Mancos, CO. Development and Outreach Associate.
