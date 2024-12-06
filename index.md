@@ -1,14 +1,20 @@
-![](https://github.com/hayleykwas/hayleykwas.github.io/blob/main/IMG_0573.jpeg)
-
 # Hayley Kwasniewski
 ### hayley.kwasniewski@colorado.edu | LinkedIn: HayleyKwas | GitHub: hayleykwas
 
+<div style="text-align: center;">
+<img
+  src="https://github.com/hayleykwas/hayleykwas.github.io/blob/main/IMG_0573.jpeg" 
+  width="25%"
+  style="text-align: center"
+  align="right"
+</div>
 ***
-## *Investigating how anthropogenic activities affect the Antarctic, a region of significant global climate regulation, biodiversity, and resource extraction.*
+### *Investigating how anthropogenic activities affect the Antarctic, a region of significant global climate regulation, biodiversity, and resource extraction.*
 
 I am a PhD student in the Environmental Studies Department at the University of Colorado-Boulder. After researching biochemical and cellular development of cancer, I began following an interest in the environmental fields. Before returning to academica, I worked at the interface of grassroots movements, climate resilience, and policy formulation and advocacy. From this experience, I gained a deep appreciation for nonhuman species and what they could tell us about ecosystem health, human impacts, and climate change. During my M.S. in environmental science and policy at Johns Hopkins University, I studied the relationships between environemtnal injustice and pollinator populations. My unique set of experiences, which sometimes felt all over the place, now provides me with the foundation necessary to answer questions about the Southern Ocean. I am excited to apply my chemistry, conservation, and policy knowledge to Antarctic toothfish research. Hayley am particularly interested in learning about physical oceanography and ecology of the Southern Ocean from this the keystone species.
 
 ***
+
 ### Education
 2028		Ph.D., Environmental Studies, University of Colorado Boulder
 
