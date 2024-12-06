@@ -1,4 +1,4 @@
-# Hayley Kwasniewski
+
 ### hayley.kwasniewski@colorado.edu | LinkedIn: HayleyKwas | GitHub: hayleykwas
 
 ***
