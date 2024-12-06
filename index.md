@@ -1,5 +1,6 @@
 # Hayley Kwasniewski
 ## hayley.kwasniewski@colorado.edu | LinkedIn: HayleyKwas | GitHub: hayleykwas
+
 ***
 *Investigating how anthropogenic activities affect the Antarctic, a region of significant global climate regulation, biodiversity, and resource extraction.*
 
