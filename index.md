@@ -15,6 +15,11 @@ I am a PhD student in the Environmental Studies Department at the University of 
 
 ***
 
+![](3BDC4D12-B271-4CC9-BC31-D47BF01CD82D.jpeg)
+
+## More About Me
+Feel free to email me for a full CV
+
 ### Education
 2028		Ph.D., Environmental Studies, University of Colorado Boulder
 
@@ -54,3 +59,27 @@ I am a PhD student in the Environmental Studies Department at the University of 
 2017	       Positive Link. Bloomington, IN. Public Health Policy Intern.
 
 2015	       GlobalMindED. Denver, CO. Environmental Research Intern.
+
+### Service and Leadership
+
+*Professional service within the University of Colorado, Boulder*
+
+2023-present	Graduate Student Representative, Justice, Equity, Diversity, and Inclusivity Committee, Environmental Studies Department.
+
+2024-present	Convenor, First Gen to College Affinity Group, Environmental Studies Department.
+
+2023		      Research Associate, STEAM Family Fest, Institute for Arctic and Alpine Research.
+
+2023	Graduate Student Panelist, Investigating Careers in the Environment, Environmental Studies Department.
+
+*Professional service outside of the University of Colorado*
+
+2023-present	Program Committee Chair, Johns Hopkins University Sustainability Leadership Alumni 			Association Retreat. Estes Park, CO.
+
+2024-2025	Event Supervisor, Science Olympiad, Fort Collins, CO.
+
+2022-2023	Program Committee Member, Johns Hopkins University Sustainability Leadership 			Alumni Association Retreat. Fredrick, MD.
+
+2021-2022	Co-President, Young Professionals Inclusive Leadership Council, GlobalMindED, Denver, CO.
+
+
