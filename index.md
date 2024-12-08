@@ -11,14 +11,14 @@
 
 ### *Investigating how anthropogenic activities affect the Antarctic, a region of significant global climate regulation, biodiversity, and resource extraction.*
   
-I am a PhD student in the Environmental Studies Department at the University of Colorado-Boulder. After researching biochemical and cellular development of cancer, I began following an interest in the environmental fields. Before returning to academica, I worked at the interface of grassroots movements, climate resilience, and policy formulation and advocacy. From this experience, I gained a deep appreciation for nonhuman species and what they could tell us about ecosystem health, human impacts, and climate change. During my M.S. in environmental science and policy at Johns Hopkins University, I studied the relationships between environemtnal injustice and pollinator populations. My unique set of experiences, which sometimes felt all over the place, now provides me with the foundation necessary to answer questions about the Southern Ocean. I am excited to apply my chemistry, conservation, and policy knowledge to Antarctic toothfish research. I am particularly interested in learning about physical oceanography and ecology of the Southern Ocean from this the keystone species.
+I am a PhD student in the Environmental Studies Department at the University of Colorado-Boulder. After researching biochemical and cellular development of cancer, I began following an interest in the environmental fields. Before returning to academica, I worked at the interface of grassroots movements, climate resilience, and policy formulation and advocacy. From this experience, I gained a deep appreciation for nonhuman species and what they could tell us about ecosystem health, human impacts, and climate change. During my M.S. in environmental science and policy at Johns Hopkins University, I studied the relationships between environemtnal injustice and pollinator populations. My unique set of experiences now provides me with the foundation necessary to answer questions about the Southern Ocean. I am excited to apply my chemistry, conservation, and policy knowledge to Antarctic toothfish research. I am particularly interested in learning about physical oceanography and ecology of the Southern Ocean from this the keystone species.
 
 ***
 
-![](3BDC4D12-B271-4CC9-BC31-D47BF01CD82D.jpeg)
+![](661C049D-4498-4F4A-A17D-3EE9BC72E2F3.png)
 
 ## More About Me
-Feel free to email me for a full CV
+For more detailed information, feel free to contact me via email.
 
 ### Education
 2028		Ph.D., Environmental Studies, University of Colorado Boulder
@@ -68,7 +68,7 @@ Feel free to email me for a full CV
 
 2024-present	Convenor, First Gen to College Affinity Group, Environmental Studies Department.
 
-2023		      Research Associate, STEAM Family Fest, Institute for Arctic and Alpine Research.
+2023		      Research Assistant Volunteer, STEAM Family Fest, Institute for Arctic and Alpine Research.
 
 2023	Graduate Student Panelist, Investigating Careers in the Environment, Environmental Studies Department.
 
