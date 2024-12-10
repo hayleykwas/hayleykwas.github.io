@@ -32,7 +32,9 @@ I am a PhD student in the Environmental Studies Department at the University of 
 2017	      Positive Link. Bloomington, IN. Public Health Policy Intern.
 2015	      GlobalMindED. Denver, CO. Environmental Research Intern.
 
+--------
 
+straightforward website, didn't want to remove the code above in case it would change anything
 
 
 
